@@ -1,3 +1,2 @@
-# examen
-Examen DNO075 2020
+#   Examen
 El avance se encuentra en https://github.com/playaplastica/nov07
