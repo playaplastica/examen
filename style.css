@@ -1,0 +1,148 @@
+            html,
+            body {
+                min-height: 100%;
+                color: #fff;
+                background-color: #006683;
+                
+            }
+            header#titular {
+                min-height: 100vh;
+                color: #fff;
+                background-color: #006683;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+                background-position: center top;
+                background-size: 100% auto;
+                background-image: url("img/caleta-tallaS.png");
+                /* Uso una imagen cuadrada para pantallas más angosta*/
+            }
+
+            @media (min-width: 768px) {
+                header#titular {
+                    background-image: url("img/caleta-tallaL.png");
+                    /* Uso una imagen apaisada para pantallas más anchas*/
+                }
+            }
+            header#titular div.container {
+                height: 100vh; /*  Misma altura que el header */
+            }
+
+            header#titular h1 {
+                color: #DEDEDE;
+                font-family: 'Roboto', sans-serif;
+                line-height: 1.0;
+                font-weight: 800;
+                font-size: 45px;
+            }
+
+            header#titular h4 {
+                color: #DEDEDE;
+                font-family: 'Roboto', sans-serif;
+                font-weight: 500;
+                font-size: 25px;
+            }
+
+            header#titular h5 {
+                color: #DEDEDE;
+                font-family: 'Roboto', sans-serif;
+                font-weight: 300;
+                font-style: italic;
+            }
+
+            header#titular h6 {
+                color: #DEDEDE; 
+                font-family: 'Nunito', sans-serif;
+                font-weight: 600;
+                font-size: 15px;
+                line-height: 3.2;
+            }
+            
+            p.lead {
+                font-weight: 500;
+                color: #DEDEDE;
+                text-align: left;
+                font-family: 'Nunito', sans-serif;
+                font-size: 16px;
+            }
+
+            p.titulos{
+                font-weight: 800;
+                font-size: 29px;
+                text-align: center; 
+                color: #DEDEDE;
+                font-family: 'Roboto', sans-serif;
+            }
+
+            p.subtitulos{
+                font-weight: 800;
+                font-size: 20px;
+                text-align: center; 
+                color: #DEDEDE;
+                font-family: 'Roboto', sans-serif;
+            }
+
+
+            img.veda {
+                filter: grayscale(100%);
+            }
+
+            p.parrafo {
+                color: #F2F2F2;
+                font-size: 15px;
+                text-align: left;
+                font-family: 'Nunito', sans-serif;
+            }
+
+            p.text-amarillo {
+                font-size: 14px;
+                color: #f9c111;
+                text-align: center;
+                font-family: 'Nunito', sans-serif;
+                font-weight: bold;
+            }
+
+            p.text-rojito {
+                font-size: 14px;
+                color: #FF6699;
+                text-align: center;
+                font-family: 'Nunito', sans-serif;
+                font-weight: bold;
+            }
+
+            p {
+                font-size: 14px;
+                text-align: center;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 600;
+            }
+
+            .card {
+                background: #234369;
+                border: none;
+                font-size: 0.9rem;
+            }
+            h6.card-title {
+                font-size:1.0rem;  
+                text-align: center; 
+            }
+
+            h6.card-title a{
+                color: #DEDEDE;
+                text-decoration:none;
+                text-align: center;   
+            }
+
+            h6.card-title a:hover{
+                color:rgba(255,255,255,1)   
+                text-decoration:none;
+            }
+
+            p.card-text{
+                font-size:0.75rem;
+                letter-spacing:0.05rem;
+                color:rgba(255,255,255,0.5);
+            }
+
+            footer{
+                background-color: #009CC9;
+            }

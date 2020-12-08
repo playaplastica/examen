@@ -1,2 +1,2 @@
-#   Examen
-El avance se encuentra en https://github.com/playaplastica/nov07
+# dec08
+Cuarto boceto del examen.
