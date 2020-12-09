@@ -207,11 +207,11 @@
             ];
             for (var x = 0; x < datos.length; x++) {
                 if (datos[x].tipo_exp == 0) {
-                    $("#ejemplares").append('<div class="col-6 col-sm-4 col-md-3 mb-4"><img src="img/' + datos[x].imagen + '" class="img-fluid veda"><p>' + datos[x].nombre + "</p></div>");
+                    $("#ejemplares").append('<div class="col-6 col-sm-4 col-md-3 mb-4 text-center"><img src="img/' + datos[x].imagen + '" class="img-fluid veda"><p>' + datos[x].nombre + "</p></div>");
                 } else if (datos[x].tipo_exp == 1) {
-                    $("#ejemplares").append('<div class="col-6 col-sm-4 col-md-3 mb-4"><img src="img/' + datos[x].imagen + '" class="img-fluid"><p class="text-amarillo">' + datos[x].nombre + "</p></div>");
+                    $("#ejemplares").append('<div class="col-6 col-sm-4 col-md-3 mb-4 text-center"><img src="img/' + datos[x].imagen + '" class="img-fluid"><p class="text-amarillo">' + datos[x].nombre + "</p></div>");
                 } else {
-                    $("#ejemplares").append('<div class="col-6 col-sm-4 col-md-3 mb-4"><img src="img/' + datos[x].imagen + '" class="img-fluid"><p class="text-rojito">' + datos[x].nombre + "</p></div>");
+                    $("#ejemplares").append('<div class="col-6 col-sm-4 col-md-3 mb-4 text-center"><img src="img/' + datos[x].imagen + '" class="img-fluid"><p class="text-rojito">' + datos[x].nombre + "</p></div>");
                 }
             }
         </script>
