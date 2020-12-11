@@ -20,21 +20,8 @@
 	.st14{fill:#FF6699;}
 	.st15{fill:#F7F7FE;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st16{fill:#FF6699;stroke:#FF6699;stroke-miterlimit:10;}
-	.st17{fill:#004251;}
+	.st17{fill:#006683;}
 	.st18{font-size:24px;}
-</style>
-<style>
-	svg g#Datos2 {
-     /* con mouse encima del svg, se muestra */
-    display: none;
-            }
-	svg:hover g#Datos2 {
-     /* con mouse encima del svg, se muestra */
-    display: inherit;
-            }
-    svg:hover {
-    cursor: grab;
-            }
 </style>
 <g id="Datos1">
 	<g>
