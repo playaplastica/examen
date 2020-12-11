@@ -2,20 +2,28 @@
 <!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 500 100" style="enable-background:new 0 0 500 100;" xml:space="preserve">
-<style type="text/css"> 
-	@import url(https://fonts.googleapis.com/css2?family=Roboto)
-	.st1{fill:none;}
-	.st1{fill:#F9C111;}
-	.st2{fill:#F7F7FF;}
-	.st3{font-family:'Roboto';}
-	.st4{font-size:12px;}
-	.st5{fill:#FF6699;}
-	.st6{font-weight:400px;}
+<style type="text/css">
+	@import url(https://fonts.googleapis.com/css2?family=Nunito)
+    .st0{fill:#none;}
+    .st30{fill:#F9C111;}
+	.st1{font-family:'Nunito';}
+	.st2{font-size:12px;}
+	.st3{fill:#FF6699;}
+	.st4{fill:#F7F7FF;}
+	.st5{font-weight: 500;}
 </style>
-<rect x="177.9" y="39.1" class="st1" width="21.8" height="21.8"/>
-<text transform="matrix(1 0 0 1 209.6282 53.5157)" class="st2 st3 st4">SOBREEXPLOTADOS</text>
-<rect x="339.2" y="39.1" class="st5" width="21.8" height="21.8"/>
-<text transform="matrix(1 0 0 1 370.5539 53.5155)" class="st2 st3 st4">COLAPSADOS</text>
-<rect x="16.3" y="39.1" class="st2" width="21.8" height="21.8"/>
-<text transform="matrix(1 0 0 1 46.8388 53.5157)" class="st2 st3 st4">EXPLOTADOS</text>
+<g>
+	<g>
+		<rect x="174.5" y="39.1" class="st30" width="21.8" height="21.8"/>
+		<text transform="matrix(1 0 0 1 206.2046 53.5157)" class="st30 st1 st2 st5">SOBREEXPLOTADOS</text>
+	</g>
+	<g>
+		<rect x="355" y="39.1" class="st3" width="21.8" height="21.8"/>
+		<text transform="matrix(1 0 0 1 386.3995 53.5155)" class="st3 st1 st2 st5">COLAPSADOS</text>
+	</g>
+	<g>
+		<rect x="32.1" y="39.1" class="st4" width="21.8" height="21.8"/>
+		<text transform="matrix(1 0 0 1 62.6844 53.5157)" class="st4 st1 st2 st5">EXPLOTADOS</text>
+	</g>
+</g>
 </svg>
