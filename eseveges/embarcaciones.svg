@@ -23,6 +23,19 @@
 	.st17{fill:#004251;}
 	.st18{font-size:24px;}
 </style>
+<style>
+	svg g#Datos2 {
+     /* con mouse encima del svg, se muestra */
+    display: none;
+            }
+	svg:hover g#Datos2 {
+     /* con mouse encima del svg, se muestra */
+    display: inherit;
+            }
+    svg:hover {
+    cursor: grab;
+            }
+</style>
 <g id="Datos1">
 	<g>
 		<rect x="200" y="211" class="st0" width="10" height="1"/>
