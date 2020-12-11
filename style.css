@@ -136,6 +136,16 @@ p.text-rojito {
     font-weight: 600;
 }
 
+.morado {
+    color:#FE8EB4;
+}
+
+img.artesanal {
+     -webkit-filter: grayscale(1);
+     filter: grayscale(1);
+     opacity:0.75;
+}
+
 footer {
     background-color: var(--marprofundo);
     font-size:80%;
