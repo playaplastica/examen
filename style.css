@@ -45,7 +45,7 @@ header#titular {
     }
 }
 header#titular div.container {
-    height: 110vh; /*  Misma altura que el header */
+    height: 100vh; /*  Misma altura que el header */
 }
 
 
